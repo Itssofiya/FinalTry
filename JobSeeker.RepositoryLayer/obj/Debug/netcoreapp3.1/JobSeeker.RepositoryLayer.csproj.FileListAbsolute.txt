@@ -1,0 +1,15 @@
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\bin\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.deps.json
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\bin\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.dll
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\bin\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.pdb
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\bin\Debug\netcoreapp3.1\JobSeeker.DataLayer.dll
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\bin\Debug\netcoreapp3.1\JobSeeker.Entities.dll
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\bin\Debug\netcoreapp3.1\JobSeeker.DataLayer.pdb
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\bin\Debug\netcoreapp3.1\JobSeeker.Entities.pdb
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\obj\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.csproj.AssemblyReference.cache
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\obj\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\obj\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.AssemblyInfoInputs.cache
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\obj\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.AssemblyInfo.cs
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\obj\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\obj\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.dll
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\obj\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.pdb
+D:\c#\FinalTry\JobSeeker.RepositoryLayer\obj\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.csproj.CopyComplete

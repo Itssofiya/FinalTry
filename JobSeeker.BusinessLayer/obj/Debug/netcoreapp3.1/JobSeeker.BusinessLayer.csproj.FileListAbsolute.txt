@@ -1,0 +1,17 @@
+D:\c#\FinalTry\JobSeeker.BusinessLayer\bin\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.deps.json
+D:\c#\FinalTry\JobSeeker.BusinessLayer\bin\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.dll
+D:\c#\FinalTry\JobSeeker.BusinessLayer\bin\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.pdb
+D:\c#\FinalTry\JobSeeker.BusinessLayer\bin\Debug\netcoreapp3.1\JobSeeker.DataLayer.dll
+D:\c#\FinalTry\JobSeeker.BusinessLayer\bin\Debug\netcoreapp3.1\JobSeeker.Entities.dll
+D:\c#\FinalTry\JobSeeker.BusinessLayer\bin\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.dll
+D:\c#\FinalTry\JobSeeker.BusinessLayer\bin\Debug\netcoreapp3.1\JobSeeker.DataLayer.pdb
+D:\c#\FinalTry\JobSeeker.BusinessLayer\bin\Debug\netcoreapp3.1\JobSeeker.Entities.pdb
+D:\c#\FinalTry\JobSeeker.BusinessLayer\bin\Debug\netcoreapp3.1\JobSeeker.RepositoryLayer.pdb
+D:\c#\FinalTry\JobSeeker.BusinessLayer\obj\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.csproj.AssemblyReference.cache
+D:\c#\FinalTry\JobSeeker.BusinessLayer\obj\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\FinalTry\JobSeeker.BusinessLayer\obj\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.AssemblyInfoInputs.cache
+D:\c#\FinalTry\JobSeeker.BusinessLayer\obj\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.AssemblyInfo.cs
+D:\c#\FinalTry\JobSeeker.BusinessLayer\obj\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\c#\FinalTry\JobSeeker.BusinessLayer\obj\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.dll
+D:\c#\FinalTry\JobSeeker.BusinessLayer\obj\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.pdb
+D:\c#\FinalTry\JobSeeker.BusinessLayer\obj\Debug\netcoreapp3.1\JobSeeker.BusinessLayer.csproj.CopyComplete

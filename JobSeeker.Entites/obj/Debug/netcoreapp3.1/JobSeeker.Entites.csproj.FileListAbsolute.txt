@@ -1,0 +1,10 @@
+D:\c#\FinalTry\JobSeeker.Entites\bin\Debug\netcoreapp3.1\JobSeeker.Entites.deps.json
+D:\c#\FinalTry\JobSeeker.Entites\bin\Debug\netcoreapp3.1\JobSeeker.Entites.dll
+D:\c#\FinalTry\JobSeeker.Entites\bin\Debug\netcoreapp3.1\JobSeeker.Entites.pdb
+D:\c#\FinalTry\JobSeeker.Entites\obj\Debug\netcoreapp3.1\JobSeeker.Entites.csproj.AssemblyReference.cache
+D:\c#\FinalTry\JobSeeker.Entites\obj\Debug\netcoreapp3.1\JobSeeker.Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\FinalTry\JobSeeker.Entites\obj\Debug\netcoreapp3.1\JobSeeker.Entites.AssemblyInfoInputs.cache
+D:\c#\FinalTry\JobSeeker.Entites\obj\Debug\netcoreapp3.1\JobSeeker.Entites.AssemblyInfo.cs
+D:\c#\FinalTry\JobSeeker.Entites\obj\Debug\netcoreapp3.1\JobSeeker.Entites.csproj.CoreCompileInputs.cache
+D:\c#\FinalTry\JobSeeker.Entites\obj\Debug\netcoreapp3.1\JobSeeker.Entites.dll
+D:\c#\FinalTry\JobSeeker.Entites\obj\Debug\netcoreapp3.1\JobSeeker.Entites.pdb
